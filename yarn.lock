@@ -1463,6 +1463,11 @@ sade@^1.7.4, sade@^1.8.1:
   dependencies:
     mri "^1.1.0"
 
+sam-js@^0.2.1:
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/sam-js/-/sam-js-0.2.1.tgz#dcb42c8f47069493e772dec5bcf3f30fae57f363"
+  integrity sha512-HAjsqnAaOUXKCOfwlTkorN7YRF9V/j+nyG+mnSuBMN9F+495eDU6mgejt4SG1Yay74aG5Enmp+sNPAy55DU53w==
+
 sander@^0.5.0:
   version "0.5.1"
   resolved "https://registry.yarnpkg.com/sander/-/sander-0.5.1.tgz#741e245e231f07cafb6fdf0f133adfa216a502ad"
